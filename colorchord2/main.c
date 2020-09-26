@@ -342,6 +342,7 @@ void RegisterConstructorFunctions(){
 	REGISTERDisplayNetwork();
 	REGISTERDisplayOutDriver();
 	REGISTERDisplayPie();
+	REGISTERDisplayRadar();
 	//REGISTERDisplaySHM();
 
 	// Output stuff
